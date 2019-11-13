@@ -1,4 +1,4 @@
-DOCKERHUBREPO=rustembayetov
+DOCKERHUBREPO=puje2docker
 IMAGE=${DOCKERHUBREPO}/products_service
 
 # ===== Maven =====
