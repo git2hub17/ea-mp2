@@ -19,5 +19,4 @@ public class UserDataDTO {
   @ApiModelProperty(position = 3)
   List<Role> roles;
 
-
 }
